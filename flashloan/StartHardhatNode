@@ -1,0 +1,5 @@
+$ npx hardhat init
+$ npx hardhat node --fork https://polygon-rpc.com/      # replace https://polygon-rpc.com/ with YOUR_RPC_URL
+
+$ npx hardhat console --network local # to connect with node via JS
+
